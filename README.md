@@ -1,13 +1,16 @@
-# summary
-
+# Summary
 <div><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kawamataryo&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kawamataryo&count_private=true&show_icons=true" />
 </a></div>
 
 # My Qiita Work
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/ryo2132/posts.svg)](http://qiita.com/ryo2132)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryo2132/contributions.svg)](http://qiita.com/ryo2132)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/ryo2132/followers.svg)](http://qiita.com/ryo2132)
+</div>
+<p><a href="http://qiita.com/ryo2132"><img src="https://qiita-badge.apiapi.app/s/ryo2132/posts.svg" alt="My Qiita posts"></a>
+<a href="http://qiita.com/ryo2132"><img src="https://qiita-badge.apiapi.app/s/ryo2132/contributions.svg" alt="My Qiita contributions"></a>
+<a href="http://qiita.com/ryo2132"><img src="https://qiita-badge.apiapi.app/s/ryo2132/followers.svg" alt="My Qiita followers"></a></p>
+https://qiita.com/ryo2132
+</div>
 
-# trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=kawamataryo)](https://github.com/ryo-ma/github-profile-trophy)
+# Trophy
+
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawamataryo" alt="trophy"></a></p>
