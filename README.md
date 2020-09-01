@@ -7,3 +7,7 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ryo2132/posts.svg)](http://qiita.com/ryo2132)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryo2132/contributions.svg)](http://qiita.com/ryo2132)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ryo2132/followers.svg)](http://qiita.com/ryo2132)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kawamataryo)](https://github.com/ryo-ma/github-profile-trophy)
