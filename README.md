@@ -10,7 +10,3 @@
 <a href="http://qiita.com/ryo2132"><img src="https://qiita-badge.apiapi.app/s/ryo2132/followers.svg" alt="My Qiita followers"></a></p>
 https://qiita.com/ryo2132
 </div>
-
-### Trophy
-
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawamataryo" alt="trophy"></a></p>
