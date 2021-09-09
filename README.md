@@ -92,6 +92,13 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/alfred-imagemin?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
+      <td><a href="https://github.com/kawamataryo/github-trending-bot"><b>GitHub Trending Bot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/github-trending-bot?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
       <td><a href="https://github.com/kawamataryo/schema2type"><b>Schema2type</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
@@ -107,5 +114,10 @@
     </tr>
   </tbody>
 </table>
+
+<h3>Development metrics</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 This profile is a fork of [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt). Thanks.
