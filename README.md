@@ -118,7 +118,18 @@
 <h3>Development metrics</h3>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    452 commits    ██████████░░░░░░░░░░░░░░░   41.85% 
+🌆 Daytime    275 commits    ██████░░░░░░░░░░░░░░░░░░░   25.46% 
+🌃 Evening    300 commits    ███████░░░░░░░░░░░░░░░░░░   27.78% 
+🌙 Night      53 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.91%
+
+```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -131,10 +142,6 @@ Markdown                 2 hrs 59 mins       ██░░░░░░░░░�
 JSON                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
 
 ```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/kawamataryo/kawamataryo/master/charts/bar_graph.png) 
 
 
  Last Updated on 09/09/2021
