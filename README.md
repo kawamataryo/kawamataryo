@@ -92,8 +92,6 @@
 <h3>Development metrics</h3>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
-
 **I'm an Early 🐤** 
 
 ```text
