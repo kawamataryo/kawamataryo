@@ -28,8 +28,8 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
-	  </tr>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/>     </td>
+    </tr>
     <tr>
       <td><a href="https://github.com/kawamataryo/chikamichi"><b>Chikamichi</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
@@ -38,6 +38,12 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
 	  </tr>
     <tr>
+      <td><a href="https://github.com/kawamataryo/suppress-ts-errors"><b>Suppress TS Errors</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
+    </tr>
       <td><a href="https://github.com/kawamataryo/animated-emoji-gen"><b>Animated emoji gen</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/animated-emoji-gen?style=flat-square&labelColor=343b41"/></td>
