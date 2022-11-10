@@ -112,10 +112,33 @@
 <h3>Development metrics</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C954%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C960%20hrs%2044%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    839 commits    ███████████░░░░░░░░░░░░░░   44.7% 
+🌆 Daytime    545 commits    ███████░░░░░░░░░░░░░░░░░░   29.04% 
+🌃 Evening    411 commits    █████░░░░░░░░░░░░░░░░░░░░   21.9% 
+🌙 Night      82 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.37%
+
+```
 
 
- Last Updated on 09/11/2022 18:41:24 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    17 hrs 59 mins      ████████████░░░░░░░░░░░░░   50.27% 
+Vue.js                   7 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65% 
+Python                   6 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.9% 
+TypeScript               2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
+JavaScript               38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
+
+```
+
+
+ Last Updated on 10/11/2022 18:41:51 UTC
 <!--END_SECTION:waka-->
 
 This profile is a fork of [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt). Thanks.
