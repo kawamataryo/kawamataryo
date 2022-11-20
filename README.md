@@ -100,6 +100,20 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
+      <td><a href="https://github.com/kawamataryo/copy-git-link"><b>Copy Git Link</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/copy-git-link?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/kawamataryo/copy-python-path"><b>Copy Python Path</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/copy-python-path?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
       <td><a href="https://github.com/kawamataryo/alfred-gyazo-uploader"><b>Alfred Gyazo Uploader</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/alfred-gyazo-uploader?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/alfred-gyazo-uploader?style=flat-square&labelColor=343b41"/></td>
