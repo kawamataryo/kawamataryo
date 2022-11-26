@@ -1,4 +1,3 @@
-<img src="https://svg-sample.deno.dev/test.svg?e_score=4.2&b_score=3.8&i_score=4.2" width="300" />
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Ryo Kawamata, Frontend developer from <b>Ibaraki, Japan</b>.
@@ -155,5 +154,7 @@ JSON                     25 mins             ░░░░░░░░░░░�
 
  Last Updated on 25/11/2022 18:39:17 UTC
 <!--END_SECTION:waka-->
+
+<img src="https://svg-sample.deno.dev/test.svg?e_score=4.2&b_score=3.8&i_score=4.2" width="350" />
 
 This profile is a fork of [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt). Thanks.
