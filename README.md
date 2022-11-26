@@ -155,6 +155,4 @@ JSON                     25 mins             ░░░░░░░░░░░�
  Last Updated on 25/11/2022 18:39:17 UTC
 <!--END_SECTION:waka-->
 
-<img src="https://svg-sample.deno.dev/test.svg?e_score=4.2&b_score=3.8&i_score=4.2" width="350" />
-
 This profile is a fork of [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt). Thanks.
