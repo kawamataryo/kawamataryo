@@ -155,4 +155,7 @@ CSS                      28 mins             ░░░░░░░░░░░�
  Last Updated on 10/12/2022 18:37:43 UTC
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 This profile is a fork of [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt). Thanks.
