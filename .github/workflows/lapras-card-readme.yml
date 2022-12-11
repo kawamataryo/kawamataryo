@@ -1,0 +1,16 @@
+name: LAPRAS Card
+
+on:
+  workflow_dispatch: # for manual workflow trigger
+  schedule:
+    - cron: "0 0 * * *" # runs at every 12AM UTC
+
+jobs:
+  update-card:
+    name: LAPRAS Card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kawamataryo/lapras-card-readme@v0.0.2
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHARE_ID: "kawamataryo"
