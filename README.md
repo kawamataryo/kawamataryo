@@ -2,6 +2,11 @@
 
 <p>Welcome to my page! </br> I'm Ryo Kawamata, Frontend developer from <b>Ibaraki, Japan</b>.
 
+<!--START_SECTION:lapras-card-->
+<a href="https://lapras.com/public/kawamataryo" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=4.26&b=3.48&i=4.05&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
+Last Updated on 12/15/2022, 12:11:18 AM UTC
+<!--END_SECTION:lapras-card-->
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/kawamataryo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -155,9 +160,6 @@ JSON                     1 hr 13 mins        █░░░░░░░░░░�
  Last Updated on 14/12/2022 18:37:59 UTC
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/kawamataryo" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=4.26&b=3.48&i=4.05&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>  
-Last Updated on 12/15/2022, 12:11:18 AM UTC
-<!--END_SECTION:lapras-card-->
+
 
 This profile is a fork of [thmsgbrt/thmsgbrt](https://github.com/thmsgbrt). Thanks.
