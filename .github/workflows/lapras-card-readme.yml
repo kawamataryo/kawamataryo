@@ -16,4 +16,3 @@ jobs:
           SHARE_ID: "kawamataryo"
           LANG: "en"
           CARD_WIDTH: "350"
-          UPDATE_TIME: "false"
