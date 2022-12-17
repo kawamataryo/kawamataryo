@@ -14,4 +14,4 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHARE_ID: "kawamataryo"
-          LANG: "en"
+          LANG: "ja"
