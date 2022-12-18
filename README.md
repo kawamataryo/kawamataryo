@@ -3,8 +3,7 @@
 <p>Welcome to my page! </br> I'm Ryo Kawamata, Frontend developer from <b>Ibaraki, Japan</b>.
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/kawamataryo" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=4.26&b=3.48&i=4.05&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a>  
-Last Updated on 12/18/2022, 12:11:27 AM
+<a href="https://lapras.com/public/kawamataryo" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=4.26&b=3.48&i=4.05&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a>
 <!--END_SECTION:lapras-card-->
 
 <h3>Where to find me</h3>
