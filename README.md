@@ -2,7 +2,8 @@
 
 <p>Welcome to my page! </br> I'm Ryo Kawamata, Frontend developer from <b>Ibaraki, Japan</b>.
 
-
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 <h3>Where to find me</h3>
 <p>
