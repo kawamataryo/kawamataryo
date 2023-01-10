@@ -130,7 +130,7 @@
 <h3>Development metrics</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C146%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C146%20hrs%2052%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -147,14 +147,14 @@
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 56 mins       █████████████████████████   99.99% 
+Python                   6 hrs 44 mins       █████████████████████████   99.99% 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
 
- Last Updated on 09/01/2023 18:38:23 UTC
+ Last Updated on 10/01/2023 18:38:43 UTC
 <!--END_SECTION:waka-->
 
 
