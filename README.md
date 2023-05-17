@@ -154,7 +154,7 @@ Markdown                 50 mins             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/kawamataryo" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=4.26&b=3.48&i=4.06&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a>
+<a href="https://lapras.com/public/kawamataryo" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=4.27&b=3.48&i=4.06&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a>
 <!--END_SECTION:lapras-card-->
 
 
