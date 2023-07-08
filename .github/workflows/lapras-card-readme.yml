@@ -17,4 +17,3 @@ jobs:
           LANG: "en"
           CARD_WIDTH: "350"
           UPDATE_TIME: "false"
-          IS_CENTER: "true"
