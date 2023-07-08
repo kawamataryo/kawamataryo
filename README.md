@@ -154,7 +154,7 @@ Markdown                 50 mins             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/kawamataryo" target="_blank" rel="noopener noreferrer"><img  alt="kawamataryo's scores on LAPRAS are as follows: Engineering: 4.33 out of 5.0, Business: 3.48 out of 5.0, Influence: 4.06 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.33&b=3.48&i=4.06&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a>
+<p ><a href="https://lapras.com/public/kawamataryo" target="_blank" rel="noopener noreferrer"><img alt="kawamataryo's scores on LAPRAS are as follows: Engineering: 4.33 out of 5.0, Business: 3.48 out of 5.0, Influence: 4.06 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.33&b=3.48&i=4.06&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 
