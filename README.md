@@ -24,13 +24,6 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/kawamataryo/sky-follower-bridge"><b>Sky Follower Bridge</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/>     </td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/kawamataryo/vue-word-highlighter"><b>Vue Word Highlighter</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/vue-word-highlighter?style=flat-square&labelColor=343b41"/></td>
@@ -44,6 +37,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/chikamichi?style=flat-square&labelColor=343b41"/></td>
 	  </tr>
+    <tr>
+      <td><a href="https://github.com/kawamataryo/sky-follower-bridge"><b>Sky Follower Bridge</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/>     </td>
+    </tr>
     <tr>
       <td><a href="https://github.com/kawamataryo/suppress-ts-errors"><b>Suppress TS Errors</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/suppress-ts-errors?style=flat-square&labelColor=343b41"/></td>
