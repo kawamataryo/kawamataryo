@@ -26,7 +26,7 @@
     </tr>
   </thead>
   <tbody>
-    tr>
+    <tr>
       <td><a href="https://github.com/kawamataryo/sky-follower-bridge"><b>Sky Follower Bridge</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/kawamataryo/sky-follower-bridge?style=flat-square&labelColor=343b41"/></td>
