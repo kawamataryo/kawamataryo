@@ -141,7 +141,7 @@ YAML         10 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/kawamataryo" target="_blank" rel="noopener noreferrer"><img alt="kawamataryo's scores on LAPRAS are as follows: Engineering: 4.58 out of 5.0, Business: 3.48 out of 5.0, Influence: 4.12 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.58&b=3.48&i=4.12&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a></p>
+<p ><a href="https://lapras.com/public/kawamataryo" target="_blank" rel="noopener noreferrer"><img alt="kawamataryo's tech score on LAPRAS is 4.58 out of 5.0 (top 0.08% of engineers). Breakdown: GitHub 4.139999866485596, Tech articles 4.630000114440918, Tech events 4.300000190734863, Tag count 3.9800000190734863." src="https://lapras-card-generator.vercel.app/api/svg?type=tech&e=4.58&ep=0.08&g=4.139999866485596&ta=4.630000114440918&te=4.300000190734863&tg=3.9800000190734863&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="350" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 
