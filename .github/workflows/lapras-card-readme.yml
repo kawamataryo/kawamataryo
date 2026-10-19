@@ -17,4 +17,4 @@ jobs:
           LANG: "en"
           CARD_WIDTH: "350"
           UPDATE_TIME: "false"
-          TYPE: "tech"
+          CARD_TYPE: "tech"
